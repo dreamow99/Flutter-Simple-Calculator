@@ -5,12 +5,15 @@ This is a simple Flutter Calculator App.
 ## Student information
 
 Name: Phạm Đức Duy
+
 ID: 17021224
 
 ## Functions
 
 This app can perform simple calculations: add, subtract, multiply, divide with integers.
+
 Since this app does not work with floats, division can only result in integers.
+
 A Clear button to help the user clear the states and define new equations is also implemented.
 
 ## Installation
